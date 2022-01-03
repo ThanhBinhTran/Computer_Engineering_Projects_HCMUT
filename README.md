@@ -4,7 +4,7 @@ This mega project includes many projects which were implemeted by junior student
 ## Classifying Objects on a Conveyor Belt Using Teachable Machine
 This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used to classification objects (toys).
 
-<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Classifying_Objects_on_a_Conveyor_Belt_Using_Teachable_Machine.png" width="550" alt="EKF pic">
+<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Classifying_Objects_on_a_Conveyor_Belt_Using_Teachable_Machine.png" width="550" alt="Classifying Objects on a Conveyor Belt Using Teachable Machine">
 
 * Video demonstation: [video link](https://www.youtube.com/watch?v=Dy7gdBxmWpg)
 * Resource: [github link](https://github.com/ptquang2000/Classifying-objects-on-conveyor-belt-using-camera)
@@ -12,6 +12,7 @@ This project classifies objects on a conveyor belt using Teachable Machine. The 
 ## Autonomous driving car_1
 This project demonstrates how an autonomous driving mobile robot drives on a map of roads in a simulation environment (the Gazebo simulator). Lane detection (computer vision-based) and sign recognition (CNN-based) are integrated into the robot (turtlebot3).
 
+<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Classifying_Objects_on_a_Conveyor_Belt_Using_Teachable_Machine.png" width="550" alt="Autonomous driving car">
 * Video demonstation: [video link](https://www.youtube.com/watch?v=Wac6ImbJlJM&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=3)
 * Resource: [github link](https://github.com/bombeo659/Self-driving-car.git)
 
