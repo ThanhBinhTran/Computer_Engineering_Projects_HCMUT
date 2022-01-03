@@ -2,7 +2,7 @@
 This mega project includes many projects which were implemeted by junior students from CSE HCMUT.
 
 ## Classifying Objects on a Conveyor Belt Using Teachable Machine
-This project classifies and tracks objects on a conveyor belt using teachable machine. The simulation is conducted in ROS and Gazebo enviroments. Teachable machine is used to classification objects (toy).
+This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used to classification objects (toys).
 
 * Video demonstation: [video link](https://www.youtube.com/watch?v=Dy7gdBxmWpg)
 * Resource: [github link](https://github.com/ptquang2000/Classifying-objects-on-conveyor-belt-using-camera)
