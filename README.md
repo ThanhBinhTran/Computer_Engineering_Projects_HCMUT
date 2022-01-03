@@ -29,10 +29,9 @@ This project demonstrates how to control a car by facial poses. OpenCV and haar 
 
 ## Packet Encapsulation/Decoder (VerilogHDL)
 
-* Video demonstation: [video link](https://www.youtube.com/watch?v=Dy7gdBxmWpg)
 * Resource: [github link](https://github.com/ntpt7921/Verilog_UDP_TCP)
 
-## Door Opening By Facial Recognition
+## Door Opening using Facial Recognition
 
 * Video demonstation: [video link](https://www.youtube.com/watch?v=27FZj82XcFA&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=10)
 * Resource: [github link](https://github.com/NCT2311/FaceRecognition.git)
