@@ -1,5 +1,5 @@
 # Computer Engineering projects [CSE HCMUT]
-This mega project includes many projects which were implemeted by junior students from CSE HCMUT.
+This mega project includes many projects which were implemented by junior students from CSE HCMUT.
 
 ## Classifying Objects on a Conveyor Belt Using Teachable Machine
 This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used to classification objects (toys).
@@ -18,7 +18,7 @@ This project demonstrates how an autonomous driving mobile robot drives on a map
 * Resource: [github link](https://github.com/bombeo659/Self-driving-car.git)
 
 ## Car Control By Hand Gestures
-This project demonstrates how to control a car by hand gestures. mediapipe  is used for hand recognition and tracking. CNN and SSD are used to recognize pre-defined hand gesture. ROS and Gazebo for simulation with turtlebot3.
+This project demonstrates how to control a car by hand gestures. Mediapipe is used for hand recognition and tracking. CNN and SSD are used to recognize pre-defined hand gestures. ROS and Gazebo for simulation with turtlebot3.
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Car_Control_By_Hand_Gestures.png" width="500" alt="Car Control By Hand Gestures">
 
@@ -26,7 +26,7 @@ This project demonstrates how to control a car by hand gestures. mediapipe  is u
 * Resource: [github link](https://github.com/Thai-Ngo/DrivingCarByHandGestures)
 
 ## Car Control By facial poses
-This project demonstrates how to control a car by facial poses. OpenCV and haar cascade is used for face recognition. ROS and Gazebo for simulation with turtlebot3.
+This project demonstrates how to control a car by facial poses. OpenCV and haar cascade are used for face recognition. ROS and Gazebo for simulation with turtlebot3.
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Car_Control_By_facial_poses.png" width="500" alt="Car Control By facial poses">
 
@@ -38,7 +38,7 @@ This project demonstrates how to control a car by facial poses. OpenCV and haar 
 * Resource: [github link](https://github.com/ntpt7921/Verilog_UDP_TCP)
 
 ## Door Opening using Facial Recognition
-This project demonstrates how open a door using Facial Recognition. mediapipe is used for tracking and drawing password charactor which is digits and leters. Tesseract is used for hand-writen drawning recognition. Telegram also is used for sending alert as well as logging the access.
+This project demonstrates how to open a door using Facial Recognition. Mediapipe is used for tracking and drawing password character which is digits and letters. Tesseract is used for hand-written drawing recognition. Telegram also is used for sending alerts as well as logging the access.
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Door_Opening_using_Facial_Recognition.png" width="500" alt="Door Opening using Facial Recognition">
 
@@ -46,7 +46,7 @@ This project demonstrates how open a door using Facial Recognition. mediapipe is
 * Resource: [github link](https://github.com/NCT2311/FaceRecognition.git)
 
 ## Mask Detection using OpenCV and AI with IoT alert
-This project will raised altert to adim system wheather it detected a person who do not wear a mask proper or without mask.
+This project will raise an alert to the admin system whether it detected a person who does not wear a mask properly or without a mask.
 MobileNetV2 network is used for Mask Detection
 Some data set for mask-detection could found at: 
 * [CanalSandeco](https://github.com/sandeco/CanalSandeco/tree/master/Deep%20Learning%20s%C3%A9rie/%2316%20-%20Detectando%20Faces%20em%20v%C3%ADdeo%20com%20Deep%20Learning)
@@ -60,7 +60,7 @@ Some data set for mask-detection could found at:
 * Resource: [github link](https://github.com/huynhngoctan2000/Mask_Detection)
 
 ## Virtual Password Opening By Hand Tracking Drawing
-This project demonstrates how open password by hand-drawning password charactors. mediapipe is used for tracking and drawing password charactor which is digits and leters. Tesseract is used for hand-writen drawning recognition. Telegram also is used for sending alert as well as logging the access. 
+This project demonstrates how to open a password by hand-drawing password characters. Mediapipe is used for tracking and drawing password character which is digits and letters. Tesseract is used for hand-written drawing recognition. Telegram also is used for sending the alert as well as logging the access. 
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Virtual_Password_Opening_By_Hand_Tracking_Drawing.png" width="500" alt="Virtual Password Opening By Hand Tracking Drawing">
 
