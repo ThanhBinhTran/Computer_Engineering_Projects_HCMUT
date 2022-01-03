@@ -48,8 +48,8 @@ This project demonstrates how to open a door using Facial Recognition. LBPH Face
 
 ### Mask Detection using OpenCV and AI with IoT alert
 This project will raise an alert to the admin system whether it detected a person who does not wear a mask properly or without a mask.
-MobileNetV2 network is used for Mask Detection
-Some data set for mask-detection could found at: 
+MobileNetV2 network is used for Mask Detection. 
+Some data-set for mask-detection could be found at: 
 * [CanalSandeco](https://github.com/sandeco/CanalSandeco/tree/master/Deep%20Learning%20s%C3%A9rie/%2316%20-%20Detectando%20Faces%20em%20v%C3%ADdeo%20com%20Deep%20Learning)
 * [MaskedFace-Net](https://github.com/cabani/MaskedFace-Net)
 * [Real-World-Masked-Face-Dataset](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
