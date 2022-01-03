@@ -1,5 +1,5 @@
 # Computer Engineering projects [CSE HCMUT]
-This mega project includes many projects which were implemented by junior students from CSE HCMUT. The works were going to be applied on Raspberry Pi, due to the pandemic, however, we decided to use simulation (Turtlebot  within ROS and Gazebo or laptop.)
+This mega project includes many projects which were implemented by junior students from CSE HCMUT. The works were going to be applied on Raspberry Pi or robots, however, due to the pandemic, we decided to use simulation (Turtlebot  within ROS and Gazebo and/or laptop.)
 
 ## Classifying Objects on a Conveyor Belt Using Teachable Machine
 This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used for objects (toys) classification.
@@ -38,7 +38,7 @@ This project demonstrates how to control a car by facial poses. OpenCV and haar 
 * Resource: [github link](https://github.com/ntpt7921/Verilog_UDP_TCP)
 
 ## Door Opening using Facial Recognition
-This project demonstrates how to open a door using Facial Recognition. .
+This project demonstrates how to open a door using Facial Recognition. LBPH Face Recognizer is for face recognition. The web system provides a friendly, nice GUI for a user to monitor and control the door-opener.
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Door_Opening_using_Facial_Recognition.png" width="500" alt="Door Opening using Facial Recognition">
 
