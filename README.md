@@ -1,5 +1,5 @@
 # Computer Engineering projects [CSE HCMUT]
-This mega project includes many projects which were implemented by junior students from CSE HCMUT. The works were going to be applied on Raspberry Pi or robots, however, due to the pandemic, we decided to use simulation (Turtlebot  within ROS and Gazebo and/or laptop.)
+This mega project includes CE projects which were implemented by junior students from CSE HCMUT. The works were going to be applied on Raspberry Pi or robots, however, due to the pandemic, we decided to use simulation (Turtlebot  within ROS and Gazebo and/or laptop.)
 
 ## Classifying Objects on a Conveyor Belt Using Teachable Machine
 This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used for objects (toys) classification.
