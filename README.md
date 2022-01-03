@@ -1,8 +1,8 @@
 # Computer Engineering projects [CSE HCMUT]
-This mega project includes many projects which were implemented by junior students from CSE HCMUT.
+This mega project includes many projects which were implemented by junior students from CSE HCMUT. The works were going to be applied on Raspberry Pi, due to the pandemic, however, we decided to use simulation (Turtlebot  within ROS and Gazebo or laptop.)
 
 ## Classifying Objects on a Conveyor Belt Using Teachable Machine
-This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used to classification objects (toys).
+This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used for objects (toys) classification.
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Classifying_Objects_on_a_Conveyor_Belt_Using_Teachable_Machine.png" width="500" alt="Classifying Objects on a Conveyor Belt Using Teachable Machine">
 
@@ -10,7 +10,7 @@ This project classifies objects on a conveyor belt using Teachable Machine. The 
 * Resource: [github link](https://github.com/ptquang2000/Classifying-objects-on-conveyor-belt-using-camera)
 
 ## Autonomous driving car_1
-This project demonstrates how an autonomous driving mobile robot drives on a map of roads in a simulation environment (the Gazebo simulator). Lane detection (computer vision-based) and sign recognition (CNN-based) are integrated into the robot (turtlebot3).
+This project demonstrates how an autonomous mobile robot drives on a map of roads in a simulation environment (the Gazebo simulator). Lane detection (computer vision-based) and sign recognition (CNN-based) are integrated into the robot (turtlebot3).
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Autonomous_driving_car_1.png" width="500" alt="Autonomous driving car">
 
@@ -38,7 +38,7 @@ This project demonstrates how to control a car by facial poses. OpenCV and haar 
 * Resource: [github link](https://github.com/ntpt7921/Verilog_UDP_TCP)
 
 ## Door Opening using Facial Recognition
-This project demonstrates how to open a door using Facial Recognition. Mediapipe is used for tracking and drawing password character which is digits and letters. Tesseract is used for hand-written drawing recognition. Telegram also is used for sending alerts as well as logging the access.
+This project demonstrates how to open a door using Facial Recognition. .
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Door_Opening_using_Facial_Recognition.png" width="500" alt="Door Opening using Facial Recognition">
 
@@ -60,7 +60,7 @@ Some data set for mask-detection could found at:
 * Resource: [github link](https://github.com/huynhngoctan2000/Mask_Detection)
 
 ## Virtual Password Opening By Hand Tracking Drawing
-This project demonstrates how to open a password by hand-drawing password characters. Mediapipe is used for tracking and drawing password character which is digits and letters. Tesseract is used for hand-written drawing recognition. Telegram also is used for sending the alert as well as logging the access. 
+This project demonstrates how to open a password by hand-drawing password characters. Mediapipe is used for tracking and drawing password character which is digits and letters. Tesseract is used for hand-written drawing recognition. Telegram also is used for sending the alert as well as logging the accesses. 
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Virtual_Password_Opening_By_Hand_Tracking_Drawing.png" width="500" alt="Virtual Password Opening By Hand Tracking Drawing">
 
@@ -68,7 +68,7 @@ This project demonstrates how to open a password by hand-drawing password charac
 * Resource: [github link](https://github.com/L3on30/UnlockDoorByHandGesture)
 
 ## Autonomous driving car_2
-This project demonstrates how an autonomous driving mobile robot drives on a map of roads in a simulation environment (the Gazebo simulator). Lane detection (computer vision-based) and sign recognition (CNN-based) are integrated into the robot (turtlebot3).
+This project demonstrates how an autonomous mobile robot drives on a map of roads in a simulation environment (the Gazebo simulator). Lane detection (computer vision-based) and sign recognition (CNN-based) are integrated into the robot (turtlebot3).
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Autonomous_driving_car_2.png" width="500" alt="Autonomous driving car">
 
