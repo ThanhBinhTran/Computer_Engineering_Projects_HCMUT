@@ -93,12 +93,12 @@ For more details of our local path-planning visit: (https://github.com/ThanhBinh
 ### Autonomous Landing of a Drone on a Moving Platform.
 This project demonstrates how a drone lands autonomously on a moving platform in the Gazebo simulation. GPS is used to catch the moving platform up. In order to land more precisely, computer-vision-based approach is used to estimate future state of the moving platform. We are going to carry out our proposal in a real drone and platform which is built by our group.
 
-<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Autonomous_driving_car_1.png" width="500" alt="Autonomous driving car">
+<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Autonomous_Landing_of_a_Drone_on_a_Moving_Platform.png" width="500" alt="Autonomous Landing of a Drone on a Moving Platform">
 
 * Videos demonstation:
-    - [video link](https://www.youtube.com/watch?v=JqxxguQyKzA)
-    - [video link](https://www.youtube.com/watch?v=nMTa5_ymTjw)
-    - [video link](https://www.youtube.com/watch?v=NPBxTC6FeoE)
+    - [GPS_to_xy_coordinates](https://www.youtube.com/watch?v=JqxxguQyKzA)
+    - [autonomous_landing_curve](https://www.youtube.com/watch?v=nMTa5_ymTjw)
+    - [Autonomous_landing_3D_real_time_plot](https://www.youtube.com/watch?v=NPBxTC6FeoE)
 * Resource: [github link](https://github.com/HuyVuong08/Autonomous-Landing-on-Moving-Platform/tree/pablo)
 
 ### Object Tracking by Autonomous Drone
