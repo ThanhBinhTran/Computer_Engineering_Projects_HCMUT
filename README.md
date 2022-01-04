@@ -65,7 +65,7 @@ This project demonstrates how to open a password by hand-drawing password charac
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Virtual_Password_Opening_By_Hand_Tracking_Drawing.png" width="500" alt="Virtual Password Opening By Hand Tracking Drawing">
 
-* Video demonstation: [video link](https://www.youtube.com/watch?v=gUwV1YIXeL4&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=7)
+* Video demonstation: [video link](https://www.youtube.com/watch?v=vXO0i1PkF2E)
 * Resource: [github link](https://github.com/L3on30/UnlockDoorByHandGesture)
 
 ### Autonomous driving car_2
