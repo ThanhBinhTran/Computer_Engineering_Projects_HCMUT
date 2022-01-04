@@ -46,7 +46,7 @@ This project demonstrates how to open a door using Facial Recognition. LBPH Face
 * Video demonstation: [video link](https://www.youtube.com/watch?v=27FZj82XcFA&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=10)
 * Resource: [github link](https://github.com/NCT2311/FaceRecognition.git)
 
-### Mask Detection using OpenCV and AI with IoT alert
+### Mask Detection using OpenCV and AI
 This project will raise an alert to the admin system whether it detected a person who does not wear a mask or wear mask in wrong way.
 MobileNetV2 network is used for Mask Detection. 
 Some data-set for mask-detection could be found at: 
