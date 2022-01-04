@@ -1,7 +1,7 @@
-# Computer Engineering projects [CSE HCMUT]
-This mega project includes CE's projects which were implemented by junior students from CSE HCMUT. The works were going to be applied on Raspberry Pi or robots, however, due to the pandemic, we decided to use simulation (Turtlebot  within ROS and Gazebo and/or laptop.)
+# Computer Engineering (CE) projects [CSE HCMUT]
+This mega project includes CE projects which were implemented by junior students from CSE HCMUT. The works were going to be applied on Raspberry Pi or robots, however, due to the pandemic, we decided to use simulation (Turtlebot  within ROS and Gazebo and/or laptop.)
 
-The projects list:
+The CE projects:
 ### Classifying Objects on a Conveyor Belt Using Teachable Machine
 This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used for objects (toys) classification.
 
@@ -75,3 +75,42 @@ This project demonstrates how an autonomous mobile robot drives on a map of road
 
 * Video demonstation: [video link](https://www.youtube.com/watch?v=sqvqwtr9-zA&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=5)
 * Resource: [github link](https://github.com/DuyThinh1415/Project_TKLL)
+
+# Computer Engineering THESIS projects [CSE HCMUT]
+This mega THESIS project includes CE's projects which were implemented by junior students from CSE HCMUT.
+
+The THESIS projects:
+### Path-planning problem for autonomous robot in the environment of uncertainly
+This project demonstrates our local path-planning proposal. The simulation is conducted in ROS and Gazebo environments. We are going to carry out our proposal in a real turtlebot3.
+
+For more details of our local path-planning visit: (https://github.com/ThanhBinhTran/autonomousRobot)
+
+<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Path_planning_problem_for_autonomous_robot_in_the_environment_of_uncertainly.png" width="500" alt="Path-planning problem for autonomous robot in the environment of uncertainly">
+
+* Video demonstation: [video link](https://www.youtube.com/watch?v=ucNTO6V-POo)
+* Resource: [github link](https://github.com/PhiTruongCE/automotive_robot/tree/main/automotive_robot)
+
+### Autonomous Landing of a Drone on a Moving Platform.
+This project demonstrates how a drone lands autonomously on a moving platform in the Gazebo simulation. GPS is used to catch the moving platform up. In order to land more precisely, computer-vision-based approach is used to estimate future state of the moving platform. We are going to carry out our proposal in a real drone and platform which is built by our group.
+
+<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Autonomous_driving_car_1.png" width="500" alt="Autonomous driving car">
+
+* Videos demonstation:
+    - [video link](https://www.youtube.com/watch?v=JqxxguQyKzA)
+    - [video link](https://www.youtube.com/watch?v=nMTa5_ymTjw)
+    - [video link](https://www.youtube.com/watch?v=NPBxTC6FeoE)
+* Resource: [github link](https://github.com/HuyVuong08/Autonomous-Landing-on-Moving-Platform/tree/pablo)
+
+### Object Tracking by Autonomous Drone
+
+<img src="" width="500" alt="Object Tracking by Autonomous Drone">
+
+* Video demonstation: [video link]()
+* Resource: [github link]()
+
+### Autonomous mobile car
+
+<img src="" width="500" alt="Autonomous mobile car">
+
+* Video demonstation: [video link]()
+* Resource: [github link]()
