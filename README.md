@@ -76,8 +76,8 @@ This project demonstrates how an autonomous mobile robot drives on a map of road
 * Video demonstation: [video link](https://www.youtube.com/watch?v=sqvqwtr9-zA&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=5)
 * Resource: [github link](https://github.com/DuyThinh1415/Project_TKLL)
 
-# Computer Engineering THESIS projects [CSE HCMUT]
-This mega THESIS project includes CE's projects which were implemented by junior students from CSE HCMUT.
+# Computer Engineering THESIS
+This mega THESIS project includes CE theses which were implemented by junior students from CSE HCMUT.
 
 The THESIS projects:
 ### Path-planning problem for autonomous robot in the environment of uncertainly
