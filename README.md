@@ -76,10 +76,10 @@ This project demonstrates how an autonomous mobile robot drives on a map of road
 * Video demonstation: [video link](https://www.youtube.com/watch?v=sqvqwtr9-zA&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=5)
 * Resource: [github link](https://github.com/DuyThinh1415/Project_TKLL)
 
-### (2019) Sand Glass traffic light
+### (2019) Sand Glass Traffic Light
 A modern traffic light makes a street more beautiful :)) 
 
-<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Path_planning_problem_for_autonomous_robot_in_the_environment_of_uncertainly.png" width="500" alt="Sand Glass Traffic Light">
+<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Sand_Glass_Traffic_Light.png" width="500" alt="Sand Glass Traffic Light">
 
 * enjoy video: [video link](https://www.youtube.com/watch?v=zxqL3B6QU0M)
 
