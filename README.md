@@ -61,7 +61,7 @@ Some data-set for mask-detection could be found at:
 * Resource: [github link](https://github.com/huynhngoctan2000/Mask_Detection)
 
 ### Virtual Password Opening By Hand Tracking Drawing
-This project demonstrates how to open a password by hand-drawing password characters. Mediapipe is used for tracking and drawing password character which is digits and letters. Tesseract is used for hand-written drawing recognition. Telegram also is used for sending the alert as well as logging the accesses. 
+This project demonstrates how to open a password by hand-drawing password characters. Mediapipe is used for tracking and drawing password character which is digits and letters. Tesseract is used for hand-written drawing recognition. Telegram is also used for sending the alert as well as logging the accesses. 
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Virtual_Password_Opening_By_Hand_Tracking_Drawing.png" width="500" alt="Virtual Password Opening By Hand Tracking Drawing">
 
