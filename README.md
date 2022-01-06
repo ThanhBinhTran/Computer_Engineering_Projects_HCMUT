@@ -2,10 +2,10 @@
 This mega project includes CE projects which were implemented by junior students from CSE HCMUT. The works were going to be applied on Raspberry Pi or robots, however, due to the pandemic, we decided to use simulation (Turtlebot  within ROS and Gazebo and/or laptop.)
 
 The CE projects:
-### Classifying Objects on a Conveyor Belt Using Teachable Machine
+### Objects Classifying on a Conveyor Belt Using Teachable Machine
 This project classifies objects on a conveyor belt using Teachable Machine. The simulation is conducted in ROS and Gazebo environments. Teachable Machine is used for objects (toys) classification.
 
-<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Classifying_Objects_on_a_Conveyor_Belt_Using_Teachable_Machine.png" width="500" alt="Classifying Objects on a Conveyor Belt Using Teachable Machine">
+<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Classifying_Objects_on_a_Conveyor_Belt_Using_Teachable_Machine.png" width="500" alt="Objects Classifying on a Conveyor Belt Using Teachable Machine">
 
 * Video demonstation: [video link](https://www.youtube.com/watch?v=Dy7gdBxmWpg)
 * Resource: [github link](https://github.com/ptquang2000/Classifying-objects-on-conveyor-belt-using-camera)
