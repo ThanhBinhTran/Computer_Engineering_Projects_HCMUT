@@ -76,8 +76,15 @@ This project demonstrates how an autonomous mobile robot drives on a map of road
 * Video demonstation: [video link](https://www.youtube.com/watch?v=sqvqwtr9-zA&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=5)
 * Resource: [github link](https://github.com/DuyThinh1415/Project_TKLL)
 
+### (2019) Sand Glass traffic light
+A modern traffic light makes a street more beautiful :)) 
+
+<img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Path_planning_problem_for_autonomous_robot_in_the_environment_of_uncertainly.png" width="500" alt="Sand Glass Traffic Light">
+
+* enjoy video: [video link](https://www.youtube.com/watch?v=zxqL3B6QU0M)
+
 # Computer Engineering THESIS
-This mega THESIS project includes CE theses which were implemented by junior students from CSE HCMUT.
+This mega THESIS project includes CE theses which were implemented by senior students from CSE HCMUT.
 
 The THESIS projects:
 ### Path-planning problem for autonomous robot in the environment of uncertainly
@@ -100,7 +107,7 @@ This project demonstrates how a drone lands autonomously on a moving platform in
     - [autonomous_landing_curve](https://www.youtube.com/watch?v=nMTa5_ymTjw)
     - [Autonomous_landing_3D_real_time_plot](https://www.youtube.com/watch?v=NPBxTC6FeoE)
 * Resource: [github link](https://github.com/HuyVuong08/Autonomous-Landing-on-Moving-Platform/tree/pablo)
-
+  
 ### Object Tracking by Autonomous Drone
 
 <img src="" width="500" alt="Object Tracking by Autonomous Drone">
