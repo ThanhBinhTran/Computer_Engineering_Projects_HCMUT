@@ -113,7 +113,7 @@ This project demonstrates how a drone lands autonomously on a moving platform in
 <img src="" width="500" alt="Object Tracking by Autonomous Drone">
 
 * Video demonstation: [video link]()
-* Resource: [github link]()
+* Resource: [github link](https://github.com/htz0707/lvtn)
 
 ### Autonomous mobile car
 
