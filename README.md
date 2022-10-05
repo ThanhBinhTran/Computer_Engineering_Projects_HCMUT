@@ -76,6 +76,7 @@ This project demonstrates how an autonomous mobile robot drives on a map of road
 * Video demonstation: 
     * [lane detection and Traffic Sign recognition](https://www.youtube.com/watch?v=sqvqwtr9-zA&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=5)
     * [Traffic Sign recognition in Gazebo Simulation](https://www.youtube.com/watch?v=KY-N35E7lNY)
+    * [lane detection in for lane in recorded video](https://www.youtube.com/watch?v=a7Y7O6JMeH8)
 * Resource: [github link](https://github.com/DuyThinh1415/Project_TKLL)
 
 ### (2019) Sand Glass Traffic Light
