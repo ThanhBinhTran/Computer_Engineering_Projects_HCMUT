@@ -108,6 +108,8 @@ This project demonstrates how a drone lands autonomously on a moving platform in
     - [GPS_to_xy_coordinates](https://www.youtube.com/watch?v=JqxxguQyKzA)
     - [autonomous_landing_curve](https://www.youtube.com/watch?v=nMTa5_ymTjw)
     - [Autonomous_landing_3D_real_time_plot](https://www.youtube.com/watch?v=NPBxTC6FeoE)
+    - [Drone takes off then landing on fixed-position platform in real enviroment] (https://www.youtube.com/watch?v=CShQ2S7FrDk)
+    - [Drone takes off then landing on a moving platform in real enviroment](https://www.youtube.com/watch?v=fvSg7zGu6Z0)
 * Resource: [github link](https://github.com/HuyVuong08/Autonomous-Landing-on-Moving-Platform/tree/pablo)
   
 ### Object Tracking by Autonomous Drone
