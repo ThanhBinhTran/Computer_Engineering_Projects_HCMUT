@@ -18,13 +18,23 @@ This project demonstrates how an autonomous mobile robot drives on a map of road
 * Video demonstation: [video link](https://www.youtube.com/watch?v=Wac6ImbJlJM&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=3)
 * Resource: [github link](https://github.com/bombeo659/Self-driving-car.git)
 
+### Car follows pre-defined objects
+This project demonstrates how a car follows objects by recongize objects colors and shape using openCV
+
+* Video demonstation: [video link](https://www.youtube.com/watch?v=pZcHnqSAVPQ)
+* Resource: [github link](https://github.com/duongnghia222/DATKLL_Object_Tracking_Robot)
+
+
 ### Car Control By Hand Gestures
 This project demonstrates how to control a car by hand gestures. Mediapipe is used for hand recognition and tracking. CNN and SSD are used to recognize pre-defined hand gestures. ROS and Gazebo for simulation with turtlebot3.
 
 <img src="https://github.com/ThanhBinhTran/Computer_Engineering_Projects_HCMUT/blob/master/img_preview/Car_Control_By_Hand_Gestures.png" width="500" alt="Car Control By Hand Gestures">
 
-* Video demonstation: [video link](https://www.youtube.com/watch?v=dymQYEBCqmw&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=6)
-* Resource: [github link](https://github.com/Thai-Ngo/DrivingCarByHandGestures)
+* Video demonstation (01): [video link](https://www.youtube.com/watch?v=dymQYEBCqmw&list=PLn3hwTWCHGlEuYv97pzRpPNgz2CqJkbVS&index=6)
+* Resource (01): [github link](https://github.com/Thai-Ngo/DrivingCarByHandGestures)
+
+* Video demonstation (02): [video link](https://www.youtube.com/watch?v=lVA7aG5oemA)
+* Resource (02): [github link](https://github.com/Duy-DaoNg/Do-An-TKLL)
 
 ### Car Control By facial poses
 This project demonstrates how to control a car by facial poses. OpenCV and haar cascade are used for face recognition. ROS and Gazebo for simulation with turtlebot3.
